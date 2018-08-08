@@ -1,0 +1,7 @@
+E:\CIENCO\Algoritmo\Revendora\RevendoraDeCarro\RevendoraDeCarro\obj\Debug\RevendoraDeCarro.csprojAssemblyReference.cache
+E:\CIENCO\Algoritmo\Revendora\RevendoraDeCarro\RevendoraDeCarro\obj\Debug\RevendoraDeCarro.csproj.CoreCompileInputs.cache
+E:\CIENCO\Algoritmo\Revendora\RevendoraDeCarro\RevendoraDeCarro\bin\Debug\RevendoraDeCarro.exe.config
+E:\CIENCO\Algoritmo\Revendora\RevendoraDeCarro\RevendoraDeCarro\bin\Debug\RevendoraDeCarro.exe
+E:\CIENCO\Algoritmo\Revendora\RevendoraDeCarro\RevendoraDeCarro\bin\Debug\RevendoraDeCarro.pdb
+E:\CIENCO\Algoritmo\Revendora\RevendoraDeCarro\RevendoraDeCarro\obj\Debug\RevendoraDeCarro.exe
+E:\CIENCO\Algoritmo\Revendora\RevendoraDeCarro\RevendoraDeCarro\obj\Debug\RevendoraDeCarro.pdb

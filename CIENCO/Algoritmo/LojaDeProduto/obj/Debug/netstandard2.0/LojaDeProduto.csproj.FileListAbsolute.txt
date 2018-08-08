@@ -1,0 +1,18 @@
+C:\Users\MARC-ALDER DELMA\Desktop\LojaDeProduto\bin\Debug\netstandard2.0\LojaDeProduto.deps.json
+C:\Users\MARC-ALDER DELMA\Desktop\LojaDeProduto\bin\Debug\netstandard2.0\LojaDeProduto.dll
+C:\Users\MARC-ALDER DELMA\Desktop\LojaDeProduto\bin\Debug\netstandard2.0\LojaDeProduto.pdb
+C:\Users\MARC-ALDER DELMA\Desktop\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.csprojAssemblyReference.cache
+C:\Users\MARC-ALDER DELMA\Desktop\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.csproj.CoreCompileInputs.cache
+C:\Users\MARC-ALDER DELMA\Desktop\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.AssemblyInfoInputs.cache
+C:\Users\MARC-ALDER DELMA\Desktop\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.AssemblyInfo.cs
+C:\Users\MARC-ALDER DELMA\Desktop\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.dll
+C:\Users\MARC-ALDER DELMA\Desktop\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.pdb
+D:\CIENCO\Algoritmo\LojaDeProduto\bin\Debug\netstandard2.0\LojaDeProduto.deps.json
+D:\CIENCO\Algoritmo\LojaDeProduto\bin\Debug\netstandard2.0\LojaDeProduto.dll
+D:\CIENCO\Algoritmo\LojaDeProduto\bin\Debug\netstandard2.0\LojaDeProduto.pdb
+D:\CIENCO\Algoritmo\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.csprojAssemblyReference.cache
+D:\CIENCO\Algoritmo\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.csproj.CoreCompileInputs.cache
+D:\CIENCO\Algoritmo\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.AssemblyInfoInputs.cache
+D:\CIENCO\Algoritmo\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.AssemblyInfo.cs
+D:\CIENCO\Algoritmo\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.dll
+D:\CIENCO\Algoritmo\LojaDeProduto\obj\Debug\netstandard2.0\LojaDeProduto.pdb

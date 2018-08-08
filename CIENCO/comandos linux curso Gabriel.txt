@@ -1,0 +1,167 @@
+mkdir nome - criar diretorios
+cd nome - entrar e sair em diretorios
+ls - listar os arquivos do diretorio
+ls -lah - listar os arquivos(ocultos e não ocultos) do diretorio
+touch nome - criar arquivos
+vi nome ou diretorio - Edita o arquivo 
+	(dentro do VI)
+		i - insere e edita coisas no arquivo
+		esc - volta pra escolher outro comando
+		: pra inserir um comando
+		w+q - sai do arquivo e volta pro terminal
+cat nome - ler o arquivo
+chmod +x nome - da permissão pra um arquivo ser executavel
+(Nome do diretorio + nome do arquivo)./script - executa o arquivo selecionado
+rm nome - exclui um arquivo ou diretorio
+rm -R nome - exclui a pasta e suas subpastas
+
+shutdown -h time - desliga a maquina(exemplo: shutdown -h now)
+
+/**---------------------COMANDOS---------------------------------------**/
+
+Se colocar ; no meio de um comando, ele permite add mais de um comando na mesma linha
+exemplo:
+
+mkdir gabriel ; cd gabriel ; touch gabriel
+
+
+/**-------------------------------------------------------------------**/
+
+
+/**----------------------SCRIPTS--------------------------------------**/
+Se o arquivo for um script precisa colocar o seguinte diretorio(#!/bin/bash) para que o 'bash' executa os comandos inseridos
+exemplo:
+
+#!/bin/bash
+
+cat gabriel
+cat iago
+cat felipe
+cat ilaialy
+cat julia
+cat vitoria
+
+
+Para dar acesso a um arquivo ser executavel tem que colocar o comando:
+chmod +x nome_arquivo exemplo:
+chmod +x script-gabriel
+
+/**-------------------------------------------------------------------**/
+
+/**-------------------------09/06/2018------------------------------------------**/
+useradd nome - só pede a senha                      |
+adduser nome - pede todas as informações do usuario |
+
+passwd nomeusuario - altera a senha de usuario
+
+cd ~ - vai pra pasta padrão do usuario
+
+Se colocar --help depois de algum comando, da pra ver as opções que tal comando ofereçe como exemplo:
+useradd --help
+
+chown usuario pasta(diretorio) -  da à algum usuario a opção de editar a pasta caso ele não tenho exemplo:
+	
+se colocar : especifica a qual grupo tal usuario está
+
+pwd - mostra a pasta que estou
+
+_____________________________________________________________________________________________________
+												     |
+ls -lah												     |
+	_drwxr-xr-x										     |
+		_dr -direct									     |
+		_wxr - tem permição de ler, escrever e editar tal arquivo			     |
+		_-xr - permissão do grupo							     |
+		_-x - permissão de todos 							     |
+												     |
+_____________________________________________________________________________________________________|
+              lê escreve edita									     |
+	      /R  W  X										     |
+           -   -  -  -  -  -  -  -  -  -							     |
+           |   |  |  |  |  |  |  |  |  |							     |
+	    											     |
+       Direc / D O N O/PERMISSÕES/Todos								     |
+												     |
+	       0 0 0 - não tem permissão - 0							     |
+	       0 0 1 - só executa - 1								     |
+	       0 1 0 - só escreve - 2								     |
+	       1 0 0 - só lê - 4								     |
+	       0 1 1 - executa e escreve - 3							     |
+	       1 1 0 - lê e escreve - 6								     |
+	       1 0 1 - lê e executa - 5								     |
+	       1 1 1 - lê, escreve e edita - 7							     |
+_____________________________________________________________________________________________________|
+												     |
+chmod numero de permissão nomedoarquivo - muda a permissão de tal arquivo ou diretorio - exemplo:    |
+												     |
+touch novoarquivo           - criando arquivo							     |
+chmod 777 novoarquivo	    - mudando a permissão para fazer tudo				     |
+_____________________________________________________________________________________________________|
+												     |
+O 777 indica a permissão que em ordem, o dono, o grupo, todos, tem permissão               	     |
+_____________________________________________________________________________________________________|
+
+
+
+ls /home/*/* | grep gabriel - lista as coisas limitando em uma pesquisa
+
+da pra usar o cat junto, então pega uma palavra dentro de um arquivo
+
+ls /home/*/* | cat gabriel grep paralavra
+
+
+/**------------------------------------------------------------REDES--------------------------------------------------------------------**/
+ 
+ip addr - ver o ip 
+
+dd - Apaga linha inteiras (dentro do comando VI)
+
+scp Diretorio/arquivo maquinaRecebe:caminho_outro_sever - SCP manda um arquivo(copia) atraves do SSH, ou seja, manda um arquivo pela rede à um outra maquina exemplo:
+scp ./novo teste@10.0.1.18:/scp/
+
+route - pega o dns
+
+/**-----------------------------------------------------------SCRIPTS------------------------------------------------------------------**/
+
+/**------------------------------------------------------------16/06/2016-----------------------------------------------------------------**/
+apt ou apt-get - gerenciador de pocotes de intalações do ubuntu
+apt-get update - passa por sites para verificar os pacotes do linux
+apt-get upgrade - pega as versões disponiveis e instala(atualiza) os aplicativos que você tem
+apt-get install - instala um pacote 
+	exemplo: apt-get install curl
+curl - pega a interface do site
+	exemplo: curl www.google.com.br
+curl -sfSL https://get.docker.com/ | bash - instala um aoo de um site
+
+find (caminho) (Oque) - find / -iname index.html - vai procurar dentro do / (iname serve pra não diferenciar letras maiusculas ou minusculas) e vai procurar o arquivo index.html
+
+/etc/init.d/nginx restart - restarta o app
+/etc/init.d/docker status - ver o status do app
+
+ctrl+r- historico de comandos [reverse-i-search]
+
+ps - lista os comandos ou comandos em execução
+ps aux - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

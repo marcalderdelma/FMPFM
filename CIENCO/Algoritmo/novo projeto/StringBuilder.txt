@@ -1,0 +1,14 @@
+            StringBuilder builder = new StringBuilder();
+            builder.Append("Filme: ").Append(codigo.ToString())
+                .Append(", Titulo: ").Append(titulo)
+                .Append("Ano: ").Append(ano.ToString())
+                .Append("\nParticipações(ões): ");
+            for (int i = 0; i < participacao.Count; i++)
+            {
+                builder.Append(paticipacao[i])
+                       .Append("\n");
+                
+            }
+            builder.Append("Custo Total: ")
+                   .Append(CustoTotal().ToString("F2", CultureInfo.InvariantCulture));
+           return builder.ToString();

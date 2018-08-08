@@ -1,0 +1,85 @@
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\E_Agenda.exe.config
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\E_Agenda.exe
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\E_Agenda.pdb
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda_MarkupCompile.cache
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.Properties.Resources.resources
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.exe
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.pdb
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.dll
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.xml
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csproj.CopyComplete
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\Views\ShellView.g.cs
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda_MarkupCompile.lref
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\App.baml
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\Views\ShellView.baml
+C:\Users\DELL\source\repos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.g.resources
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\E_Agenda.exe.config
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\E_Agenda.exe
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\E_Agenda.pdb
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.dll
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.dll
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\System.Windows.Interactivity.dll
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.xml
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.xml
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csprojAssemblyReference.cache
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\Views\ShellView.g.cs
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\App.g.cs
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda_MarkupCompile.cache
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda_MarkupCompile.lref
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\App.baml
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\Views\ShellView.baml
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.g.resources
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.Properties.Resources.resources
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csproj.GenerateResource.cache
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csproj.CoreCompileInputs.cache
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csproj.CopyComplete
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.exe
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.pdb
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\E_Agenda.exe.config
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\E_Agenda.exe
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\E_Agenda.pdb
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.dll
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.Core.dll
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.dll
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\System.Windows.Interactivity.dll
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.xml
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.xml
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\Caliburn.Micro.Platform.Core.xml
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csprojAssemblyReference.cache
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\Views\ShellView.g.cs
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\App.g.cs
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda_MarkupCompile.cache
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda_MarkupCompile.lref
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\App.baml
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\Views\ShellView.baml
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.g.resources
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.Properties.Resources.resources
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csproj.GenerateResource.cache
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csproj.CoreCompileInputs.cache
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.csproj.CopyComplete
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.exe
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\obj\Debug\E_Agenda.pdb
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignColors.dll
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignColors.pdb
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignColors.dll
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignColors.pdb
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\E_Agenda\E_Agenda\bin\Debug\MaterialDesignThemes.Wpf.xml

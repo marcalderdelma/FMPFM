@@ -1,0 +1,14 @@
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\bin\Debug\EV_Curso.exe.config
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\bin\Debug\EV_Curso.exe
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\bin\Debug\EV_Curso.pdb
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\obj\Debug\EV_Curso.csprojAssemblyReference.cache
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\obj\Debug\EV_Curso.csproj.CoreCompileInputs.cache
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\obj\Debug\EV_Curso.exe
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\obj\Debug\EV_Curso.pdb
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\bin\Debug\EV_Curso.exe.config
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\bin\Debug\EV_Curso.exe
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\bin\Debug\EV_Curso.pdb
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\obj\Debug\EV_Curso.csprojAssemblyReference.cache
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\obj\Debug\EV_Curso.csproj.CoreCompileInputs.cache
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\obj\Debug\EV_Curso.exe
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\EV_Curso\EV_Curso\obj\Debug\EV_Curso.pdb

@@ -1,0 +1,282 @@
+mkdir nome - criar diretorios
+cd nome - entrar e sair em diretorios
+ls - listar os arquivos do diretorio
+ls -lah - listar os arquivos(ocultos e não ocultos) do diretorio
+touch nome - criar arquivos
+vi nome - Edita o arquivo 
+	(dentro do VI)
+		i - insere e edita coisas no arquivo
+		esc - volta pra escolher outro comando
+		: pra inserir um comando
+		w+q - sai do arquivo e volta pro terminal
+cat nome - ler o arquivo
+chmod +x nome - da permissão pra um arquivo ser executavel
+(Nome do diretorio + nome do arquivo)./script - executa o arquivo selecionado
+rm nome - exclui um arquivo ou diretorio
+rm -R nome - exclui a pasta e suas subpastas
+
+shutdown -h time - desliga a maquina(exemplo: shutdown -h now)
+
+
+
+
+/**---------------------comandos---------------------------------------**/
+
+Se colocar ; no meio de um comando, ele permite add mais de um comando na mesma linha
+exemplo:
+
+mkdir Iago ; cd Iago ; touch Iago
+
+/**-------------------------------------------------------------------**/
+
+/**----------------------Scripts--------------------------------------**/
+Se o arquivo for um script precisa colocar o seguinte diretorio(#!/bin/bash) para que o 'bash' executa os comandos inseridos
+exemplo:
+
+#!/bin/bash
+
+cat gabriel
+cat iago
+cat felipe
+cat ilaialy
+cat julia
+cat vitoria
+
+/**-------------------------------------------------------------------**/
+Trocar para root
+
+su -
+/**-------------------------------------------------------------------**/
+Criar usuários
+
+adduser: Cria usuário com o pedido de várias informações;
+useradd: Somente cria o usuário com solicitação de senha;
+
+Senha
+passwd (nome do usuário)
+digitar senha
+repetir senha
+
+Trocar para usuário
+su (nome do usuário)
+senha
+/**--------------------------------------------------------------------**/
+vi /etc/passwd
+
+Entrar no modo de "controle" do linux. Como a pasta Windows do Windows;
+Permite o controle dos usuários;
+
+para sair desse modo: 
+:q
+
+useradd --help (abre a opção de ajuda do linux, em relação a usuários)
+
+bin/bash - "principal" programa do Linux; Controla e comanda as ações do root e usuários;
+
+$ - significa que o usuário não está rodando nenhum programa;
+
+$ - quando presente no nome de um usuário (ex: Iago@superos:/root$) significa usuário comum;
+
+cd ~ - envia para o diretório principal do usuário;
+
+exit - sair do usuário;
+
+/**--------------------------------------------------------------------**/
+
+chown (nome) /home/nome
+chown - altera o dono de algo;
+nome - O nome do dono;
+/home/nome - Indica o que vai receber o dono;
+/**--------------------------------------------------------------------**/
+pwd - mostra a pasta atual que o usuário se encontra;
+
+drwxr-xr-x
+d - diretório;
+rwx - Permissões de Leitura (R - Read), Escrita (W - Write) e Execução (X - Execute); (DONO);
+-xr - Permissão dos grupos;
+-x - Permissão de todos;
+/**--------------------------------------------------------------------**/
+Obs: Perigo de trabalhar somente como root - Todos tem acesso a tudo!;
+
+chmod = Controle de permissões e segurança;
+
+chmod ---------
+
+chmod - --------- = arquivo
+chmod d --------- = diretorio
+
+chmod ---  ---  ---
+      ||   ||   ||
+      \/   \/   \/
+     DONO Grupo Global
+/**--------------------------------------------------------------------**/
+
+chmod _ _ _ nome do arquivo
+
+_ _ _ = número das permissões de cada nível (dono,grupo e global);
+
+/**--------------------------------------------------------------------**/
+
+Linux - REDES
+
+
+domain name server (DNS) - troca o nome do domínio de determinado IP;
+/**--------------------------------------------------------------------**/
+gateway - caminho de acesso ao IP;
+/**--------------------------------------------------------------------**/
+ifconfig (InterFace config) - Comando para visualizar IP;
+/**--------------------------------------------------------------------**/
+ip addr - Endereço de IP;
+/**--------------------------------------------------------------------**/
+ping - teste de internet;
+/**--------------------------------------------------------------------**/
+
+DHCP - Distribuição de ip automático;
+DHCP - Sempre manda o ip para o cliente;
+
+ipconfig /release ele "solta" o ip;
+ipconfig /renew ele manda um novo ip;
+/**--------------------------------------------------------------------**/
+
+vi /etc/resolv.conf
+
+dd = Apaga linhas de comando; (ex: 10dd - 10 linhas);
+nameserver númeroIP = "Nome" do DNS;
+:q! = sair do vi;
+
+/**--------------------------------------------------------------------**/
+
+scp ./potato teste@(númerodeIP):/scp/
+
+SCP - system copy;
+
+./ = específica a pasta/arquivo local;
+
+(nomedoarquivo)
+
+teste = nome do local destino;
+
+@númeroIP = IP destino;
+
+: = indica o caminho do sistema destino;
+
+/scp/ = destino no outro sistema;
+
+route = rotas;
+
+
+/**--------------------------------------------------------------------**/
+
+
+Utilizar o sinal de "=" permite a criação de variáveis;
+
+/ = no começo da linha de código indica o caminho principal;
+
+
+/**--------------------------------------------------------------------**/
+TESTE DE SCRIPT
+
+#!/bin/bash
+cd /home
+PASTA=`ls`
+for NOME in $PASTA
+do
+touch /home/$NOME/Iago
+done
+cd /home
+chown -r Iago /home/* 
+chmod 700 -r Iago /home/*
+
+/**--------------------------------------------------------------------**/
+
+ls | grep (nomedoarquivo)
+
+| grep = busca algo dentro do comando que está sendo rodado;
+
+/**--------------------------------------------------------------------**/
+
+AULA 3 - 16/06/2018
+
+
+IP: 18.231.165.140
+
+
+/**--------------------------------------------------------------------**/
+
+
+Ubuntu
+
+Troca de usuario para root:
+sudo su
+
+gerenciador de pacotes:
+apt ou apt-get
+
+Parâmetros:
+apt-get update - mostra todas atualizações (pacotes para atualizar);
+
+apt-get upgrade - pega todas as atualizações apontadas pelo "update" e começa a aplicação de uma nova versão;
+
+apt-get install - instalações de pacotes;
+	Exemplo:
+	apt-get install curl;
+
+curl (nome do site) - Mostra a interface (em texto) do site apontado;
+
+apt-get install nginx;
+
+(Nota: Estudar sobre portas de site);
+
+curl localhost;
+
+
+curl -sfSL https://get.docker.com/ | bash
+
+
+/**--------------------------------------------------------------------**/
+
+A porta padrão de todo site é 80;
+
+/**--------------------------------------------------------------------**/
+
+find - Busca e Leitura de arquivos;
+
+Forma padrão:
+find (onde) (o quê)
+
+Parâmetros:
+find / -iname (nome do "destino")
+
+Exemplo:
+find / -iname index.html
+
+find - Buscar;
+/ - Em todas as pastas;
+-iname - nome do parâmetro (-iname serve para não diferenciar letras maiúsculas e minúsculas);
+index.html - Nome do "Destino";
+
+/**--------------------------------------------------------------------**/
+
+Re-startar um serviço:
+/etc/init.d/(nome serviço) restart;
+	Exemplo:
+	/etc/init.d/nginx restart; 
+
+etc - modo de "controle" do linux;
+
+/**--------------------------------------------------------------------**/
+
+
+ctrl + R = reverse-i-search;
+
+history - Exibe todos os comandos digitados;
+
+/**--------------------------------------------------------------------**/
+
+Docker
+
+/etc/init.d/docker status;
+
+ps - Verifica comandos em execução;
+
+ps aux - 

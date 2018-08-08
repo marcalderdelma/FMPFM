@@ -1,0 +1,7 @@
+D:\CIENCO\Algoritmo\novo projeto\proposto2-IMPLEMENTACAO\curso\bin\Debug\curso.exe.config
+D:\CIENCO\Algoritmo\novo projeto\proposto2-IMPLEMENTACAO\curso\bin\Debug\curso.exe
+D:\CIENCO\Algoritmo\novo projeto\proposto2-IMPLEMENTACAO\curso\bin\Debug\curso.pdb
+D:\CIENCO\Algoritmo\novo projeto\proposto2-IMPLEMENTACAO\curso\obj\Debug\curso.csprojAssemblyReference.cache
+D:\CIENCO\Algoritmo\novo projeto\proposto2-IMPLEMENTACAO\curso\obj\Debug\curso.csproj.CoreCompileInputs.cache
+D:\CIENCO\Algoritmo\novo projeto\proposto2-IMPLEMENTACAO\curso\obj\Debug\curso.exe
+D:\CIENCO\Algoritmo\novo projeto\proposto2-IMPLEMENTACAO\curso\obj\Debug\curso.pdb

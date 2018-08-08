@@ -1,0 +1,14 @@
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\bin\Debug\Agenda.exe
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\bin\Debug\Agenda.pdb
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\obj\Debug\Agenda.exe
+E:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\obj\Debug\Agenda.pdb
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\bin\Debug\Agenda.exe
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\bin\Debug\Agenda.pdb
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\obj\Debug\Agenda.exe
+D:\CIENCO\FUNDAÇÃO BRADESCO\Linguagem de programação C# - .Net\Projetos\Agenda\Agenda\obj\Debug\Agenda.pdb

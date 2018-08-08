@@ -1,0 +1,7 @@
+D:\CIENCO\Algoritmo\Loja de Produto\C#Project\LojaDeProduto\LojaDeProduto\bin\Debug\LojaDeProduto.exe.config
+D:\CIENCO\Algoritmo\Loja de Produto\C#Project\LojaDeProduto\LojaDeProduto\bin\Debug\LojaDeProduto.exe
+D:\CIENCO\Algoritmo\Loja de Produto\C#Project\LojaDeProduto\LojaDeProduto\bin\Debug\LojaDeProduto.pdb
+D:\CIENCO\Algoritmo\Loja de Produto\C#Project\LojaDeProduto\LojaDeProduto\obj\Debug\LojaDeProduto.csprojAssemblyReference.cache
+D:\CIENCO\Algoritmo\Loja de Produto\C#Project\LojaDeProduto\LojaDeProduto\obj\Debug\LojaDeProduto.csproj.CoreCompileInputs.cache
+D:\CIENCO\Algoritmo\Loja de Produto\C#Project\LojaDeProduto\LojaDeProduto\obj\Debug\LojaDeProduto.exe
+D:\CIENCO\Algoritmo\Loja de Produto\C#Project\LojaDeProduto\LojaDeProduto\obj\Debug\LojaDeProduto.pdb

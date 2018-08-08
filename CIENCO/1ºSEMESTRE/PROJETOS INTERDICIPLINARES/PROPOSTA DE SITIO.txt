@@ -1,0 +1,19 @@
+Percebe-se que as organizações envolvidas no processo de reciclagem enfrentam um 
+grande desafio: as geradoras de resíduos sólidos, as residencias, não deferenciam
+o reciclável do não reciclável, em consequência disso recebem muitas materias não aproveitáveis.
+Isso lhes custa dineiro e tempo, pois gastam-se combustíveis na logistica e o tempo usam-se para separar
+o reciclável do não reciclável.
+
+Com base nisto foi proposto um sistema web (sítio) que permitiria a disponibilidade
+das informações levando-as até as residências.
+O  site funcionaria desta seguinte maneira:
+
+- A pagina principal teria um slider que mostra mensagem de conscientização;
+- Diferenciar lixo (não reciclável) e resíduo (reciclável) com uma planilha ou ban-
+ner listando as materiais recicláveis e as que não são recicláveis;
+- Dando dicas para as geradoras de resíduos;
+- Deixar acessível a programção semanal;
+- Mostrar a rota da coleta através de uma mapa;
+- Compatilhar informações sobre a organização: 
+
+http://sedema.wixsite.com/sedema/coleta-seletiva

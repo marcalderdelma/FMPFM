@@ -1,0 +1,127 @@
+﻿<Window x:Class="E_Agenda.Views.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        FontSize="18"
+        mc:Ignorable="d"        
+        Title="ShellView" Height="500" Width="800"
+        WindowStartupLocation="CenterScreen"  WindowStyle="None"
+        BorderThickness="3">
+    <Border Padding="20">
+        <StackPanel>
+            <DockPanel>
+                <TextBlock DockPanel.Dock="Top"
+                           HorizontalAlignment="Center" 
+                           Style="{DynamicResource MaterialDesignTitleTextBlock}"
+                           Text="AGENDA" Margin="0 0 0 10"/>
+            </DockPanel>
+
+            <Grid>
+                <!-- Definição das counas do grid -->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+
+                </Grid.ColumnDefinitions>
+                <!-- Definição das linhas-->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- Entrada de nome -->
+                <TextBox x:Name="Nome" Grid.Column="0"
+                         Padding="2"
+                         Background="#eeee"
+                         materialDesign:HintAssist.Hint="Nome" 
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Grid.Row="0"
+                         Margin="10,0,0,0" 
+                         Width="250" Height="50"/>
+
+                <!-- Entrada de sobrenome -->
+                <TextBox x:Name="Sobrenome"
+                         Grid.Column="0"
+                         Padding="2" 
+                         materialDesign:HintAssist.Hint="Sobrenome"
+                         Background="#eeee"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                         Margin="10 10 0 0"
+                         Width="250" Height="50"
+                         Grid.Row="1"/>
+
+                <!-- Nome Completo-->
+                <TextBox x:Name="NomeCompleto"
+                         Grid.Column="0"
+                         Padding="2"
+                         Background="#eeee"
+                         materialDesign:HintAssist.Hint="Nome Completo" 
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         IsReadOnly="True"
+                         Margin="10 10 0 0"
+                         Width="250" Height="50"
+                         Grid.Row="2"/>
+
+                <!-- Campo para telefone -->
+                <TextBox x:Name="Telefone"
+                         Grid.Column="0"
+                         Padding="2"
+                         Background="#eeee"
+                         materialDesign:HintAssist.Hint="Telefone" 
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Margin="10 10 0 0"
+                         Width="250" Height="50"
+                         Grid.Row="3"/>
+
+                <!-- Campo para e-mail-->
+                <TextBox x:Name="Email" 
+                         Grid.Column="0" Padding="2" 
+                         materialDesign:HintAssist.Hint="E-mail"                                  
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Margin="10 10 0 0" 
+                         Width="250" Height="50"
+                         Background="#eeee"
+                         Grid.Row="4"/>
+
+                <StackPanel Grid.Column="0" Grid.Row="5" Margin="10 20" 
+                            Orientation="Horizontal">
+
+                    <!-- Botão para salvar -->
+                    <Button x:Name="Save" Content="Salvar"  Margin="0 0 10 0"/>
+
+                    <!-- Botão para Limpar os campos -->
+                    <Button x:Name="Clear" Content="Limpar" Margin="0 0 0 0"/>
+
+                    <!-- Botão para fechar a janela -->
+                    <Button x:Name="EndApp" Content="Fechar" Margin="10 0 0 0"/>
+                </StackPanel>
+
+                <Canvas Grid.Column="1" Grid.RowSpan="6">
+                    <!--Data Grid View -->
+                    <DataGrid x:Name="dataGridContato"
+                              
+                              AutoGenerateColumns="False"
+                              Height="280" Width="auto" 
+                              Canvas.Right="10"
+                              Canvas.Left="10" Canvas.Top="10">
+                        
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Nome"/>
+                            <DataGridTextColumn Header="Sobrenome"/>
+                            <DataGridTextColumn Header="Nome Completo"/>
+                            <DataGridTextColumn Header="Telefone"/>
+                            <DataGridTextColumn Header="E-mail"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Canvas>
+            </Grid>
+        </StackPanel>
+    </Border>
+
+</Window>

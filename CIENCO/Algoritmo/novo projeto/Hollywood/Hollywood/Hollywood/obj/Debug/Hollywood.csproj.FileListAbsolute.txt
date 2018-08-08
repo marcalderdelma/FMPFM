@@ -1,0 +1,7 @@
+D:\CIENCO\Algoritmo\novo projeto\Hollywood\Hollywood\Hollywood\bin\Debug\Hollywood.exe.config
+D:\CIENCO\Algoritmo\novo projeto\Hollywood\Hollywood\Hollywood\bin\Debug\Hollywood.exe
+D:\CIENCO\Algoritmo\novo projeto\Hollywood\Hollywood\Hollywood\bin\Debug\Hollywood.pdb
+D:\CIENCO\Algoritmo\novo projeto\Hollywood\Hollywood\Hollywood\obj\Debug\Hollywood.csprojAssemblyReference.cache
+D:\CIENCO\Algoritmo\novo projeto\Hollywood\Hollywood\Hollywood\obj\Debug\Hollywood.csproj.CoreCompileInputs.cache
+D:\CIENCO\Algoritmo\novo projeto\Hollywood\Hollywood\Hollywood\obj\Debug\Hollywood.exe
+D:\CIENCO\Algoritmo\novo projeto\Hollywood\Hollywood\Hollywood\obj\Debug\Hollywood.pdb
